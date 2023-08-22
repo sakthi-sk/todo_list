@@ -1,0 +1,63 @@
+  /// name change function
+
+//   function App(){
+
+
+//  function handleNameChange(){
+//      const names = ["hotel", "car", "bike"];
+//        const int = Math.floor(Math.random()*3);
+//          return  names[int]
+
+//  }
+ 
+//   return(
+//     <div>
+//       <h1>sakthi</h1>
+//       <p> welocom  to {handleNameChange()} </p>
+//     </div>
+
+    
+//   );
+// }
+ 
+// export default App;
+
+//<---------------------------------------------------------------------------------------------->
+
+
+//---------------------- how use  usestate  -------------------------------
+// const Content = () => {
+
+//    const [first, setfirst] = useState()
+    
+
+//     function handleNameChange(){
+
+//        const name = ['mathan','hari','kumar']
+//        const int = Math.floor(Math.random()*3)
+//        setfirst(name[int])
+         
+      
+       
+//     }
+ 
+
+
+//   return (
+// <main>
+//    <h1> lest's go to {first}</h1>
+   
+//    <button onClick={handleNameChange }>ok</button>
+   
+// </main>
+   
+        
+    
+//   )
+// }
+
+// export default Content
+
+
+//<---------------------------------------------------------------------------------------------->
+// useRef
